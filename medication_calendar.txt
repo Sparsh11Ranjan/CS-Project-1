@@ -1,0 +1,4 @@
+Medication Schedule for Flu:
+Day 1: Take 2 tablets of acetaminophen in the morning and 2 tablets in the evening.
+Day 2-5: Take 2 tablets of ibuprofen every 6 hours as needed for fever and body aches.
+
